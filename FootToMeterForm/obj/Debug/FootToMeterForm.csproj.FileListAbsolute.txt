@@ -1,0 +1,11 @@
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\bin\Debug\FootToMeterForm.exe.config
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\bin\Debug\FootToMeterForm.exe
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\bin\Debug\FootToMeterForm.pdb
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\obj\Debug\FootToMeterForm.csproj.AssemblyReference.cache
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\obj\Debug\FootToMeterForm.csproj.SuggestedBindingRedirects.cache
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\obj\Debug\FootToMeterForm.Form1.resources
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\obj\Debug\FootToMeterForm.Properties.Resources.resources
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\obj\Debug\FootToMeterForm.csproj.GenerateResource.cache
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\obj\Debug\FootToMeterForm.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\obj\Debug\FootToMeterForm.exe
+D:\УЧЕБА\UNITY\FootToMeterForm\FootToMeterForm\obj\Debug\FootToMeterForm.pdb
